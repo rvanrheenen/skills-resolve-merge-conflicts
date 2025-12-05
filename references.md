@@ -1,3 +1,5 @@
-# References
+## References
 
-* octocat 1 😈
+- Sandy Ginoza
+- Michelle Obama
+- Rebecca Yarros
